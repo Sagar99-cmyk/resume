@@ -1,2 +1,3 @@
 # Resume
-Web Developer - Sagar Singh 
+<b>Sagar Singh<b> <br>
+<i>(Web Developer)<i> 
