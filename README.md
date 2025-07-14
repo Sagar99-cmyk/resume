@@ -1,2 +1,2 @@
 # Resume
-My Resume for Complete Web Development Course
+Web Developer - Sagar Singh 
